@@ -1,0 +1,531 @@
+Quién descubrió America?;Antonio Banderas;Cristóbal Colon;Diego Maradona;Gabriel Garcia Márquez;David Guetta;2
+Cuál es la edad mínima para ser diputado en Argentina?;18;21;25;32;3
+Quién inventó la lámpara eléctrica?;Edison;Tesla;Roentgen;Marconi;Da Vinci;1
+Quien "sabia que no sabia nada"?;Aristoteles;Ortega y Gasset;Socrates;Platon;3
+En que lugar del cuerpo se produce la insulina?;En la hipofisis;En el pancreas;En el duodeno;2
+Que pais no tiene al euro como moneda?;Portugal;Suiza;Francia;Chipre;Malta;2
+En cuantos estados pueden aparecer la materia?;1;2;3;4 o mas;4
+Que era el Concorde?;Un tren bala;Un transbordador espacial;Un avion supersonico;Un modulo lunar;3
+Que enfermedad se considera erradicada?;Peste;Viruela;Colera;Sifilis;Sarampion;2
+Quien escribio el Martin Fierro?;Martin Fierro;Jorge Luis Borges;Jose Hernandez;Miguel Cane;Autor anonimo;3
+Quien es culpable?;El imputado;El acusado;El procesado;El condenado;4
+En que no cree un budista?;En la reencarnacion;En el nirvana;En un dios;3
+Quien fue Atahualpa Yupanqui?;El ultimo rey inca;Un poeta argentino;Un conquistador;Un sacerdote;2
+Que papa convoco el Concilio Vaticano II?;Juan Pablo II;Benedicto XVI;Juan XXIII;Paulo VI;Pio XII;3
+A que edificio trepo King Kong?;A la Casa Blanca;Al Empire State;A la Torre Eiffel;A las Torres Gemelas;2
+Que significa la 'a' en la palabra sida?;Ampliada;Aceptada;Adquirida;Anonima;Autoinmune;3
+Cual es el pueblo imaginario descrito en Cien años de soledad?;Macondo;Vetusta;Catay;Metropolis;1
+De que empresario trata la pelicula La red social?;Bill Gates;Mark Zuckerberg;Steve Jobs;Mick Jagger;2
+Cual es el combustible utilizado en las centrales nucleares?;Uranio;Plutonio;Helio;Estroncio;Galio;1
+Que se coloca entre los numeros de una direccion IP?;Puntos;Doble barra;Guiones;Dos puntos;Espacios;1
+La obra Romeo y Julieta esta ambientada en;Londres;Teruel;Verona;Venecia;Sicilia;3
+Que lugar fue la sede de los Juegos Olimpicos de 1972?;Munich;Seul;Montral;Los Angeles;1
+Que emperador romano mando construir el Coliseo de Roma?;Neron;Tiberio;Julio Cesar;Vespaciano;4
+En que año tuvo lugar la batalla de Waterloo?;1743;1817;1812;1815;1792;4
+A que pais atraviesa el rio Tigris?;Pakistan;Iran;Siria;Turquia;Irak;5
+Cual es la velocidad maxima en autopistas argentinas?;80;100;120;130;Sin limite;4
+Como se reproducen los Pitufos?;Por mitosis;Por huevos;Nace uno en cada luna llena azul;Nadie lo sabe;3
+A que pais pertenece la isla de Tasmania?;Estados Unidos;Australia;Portugal;Corea del Sur;Ninguna de las anteriores;2
+Que es la UA?;Union Austrohungara;Union Africana;Union Americana;Union Afroamericana;2
+Cuantas finales del mundo jugo la Seleccion Argentina de futbol?;5;6;4;3;2
+De donde de obtiene la sacarina?;Del aceite de girasol;Del azucar;Del carbon;Del azufre;3
+Cuantas caras tiene un icosaedro?;20;16;8;24;1
+Cual es el simbolo quimico del Sodio?;Mn;Li;Au;Sr;Na;5
+Cuantos jugadores componen un equipo de rugby?;11;12;15;21;3
+Que seleccion acumula mayor cantidad de expulsados en  mundiales de futbol?;Argentina;Brasil;Italia;Camerun;1
+Como se llamaba el personaje que interpretaba John Travolta en "Grease"?;Danny Pujo;Danny Zuko;Danny Grease;Danny Chulo;2
+Cuantos premios Grammy ha ganado Britney Spears?;Uno;Dos;Tres;Cuatro;Ninguno;1
+Cual es considerado por los fanáticoss el peor juego de la historia de ATARI?;Tetris;Asteroids;Combat;ET;Galaxian;4
+Cuantos colores tiene un cubo de Rubik clasico?;4;6;8;9;2
+Cual es la nacionalidad de la cantante Shakira?;Colombiana;Venezolana;Ecuatoriana;Peruana;1
+¿Cuál es el símbolo químico del oro?;Au;Ag;Fe;Cu;Pb;1
+¿Cuál es la capital de Australia?;Sidney;Melbourne;Brisbane;Canberra;Perth;4
+¿Cuál es el planeta más grande del sistema solar?;Marte;Venus;Júpiter;Saturno;Neptuno;3
+¿Quién escribió "Don Quijote de la Mancha"?;Miguel de Cervantes;Federico García Lorca;Pablo Neruda;Gabriel García Márquez;William Shakespeare;1
+¿Cuál es el río más largo del mundo?;Río Nilo;Río Amazonas;Río Yangtsé;Río Misisipi;Río Danubio;2
+¿Cuál es el metal más abundante en la corteza terrestre?;Oro;Hierro;Plata;Aluminio;Cobre;4
+¿Cuál es el número atómico del carbono?;6;8;12;14;16;1
+¿Quién fue el primer presidente de Estados Unidos?;Thomas Jefferson;George Washington;John Adams;Abraham Lincoln;Benjamin Franklin;2
+¿Cuál es el océano más grande del mundo?;Océano Atlántico;Océano Índico;Océano Pacífico;Océano Antártico;Océano Ártico;3
+¿Quién pintó "La noche estrellada"?;Pablo Picasso;Vincent van Gogh;Leonardo da Vinci;Salvador Dalí;Claude Monet;2
+¿Cuál es el elemento químico más ligero?;Hidrógeno;Helio;Oxígeno;Carbono;Nitrógeno;1
+¿En qué país se encuentra la Torre Eiffel?;Reino Unido;Italia;Francia;Alemania;España;3
+¿Cuál es el símbolo químico del oxígeno?;Ox;Oi;O;Oxg;Oz;3
+¿Quién escribió "Cien años de soledad"?;Mario Vargas Llosa;Pablo Neruda;Gabriel García Márquez;Isabel Allende;Julio Cortázar;3
+¿Cuál es el país más poblado del mundo?;India;Estados Unidos;China;Brasil;Indonesia;3
+¿En qué año se fundó la ONU?;1945;1955;1965;1975;1985;1
+¿Cuál es el planeta más cercano al Sol?;Venus;Mercurio;Marte;Júpiter;Saturno;2
+¿Quién pintó "La última cena"?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Claude Monet;Salvador Dalí;3
+¿Cuál es el río que pasa por El Cairo?;Río Amazonas;Río Támesis;Río Nilo;Río Danubio;Río Ganges;3
+¿Quién fue el primer hombre en pisar la Luna?;Neil Armstrong;Buzz Aldrin;Yuri Gagarin;John Glenn;Alan Shepard;1
+¿Cuál es el continente más grande del mundo?;Asia;África;Europa;América del Norte;Oceanía;1
+¿En qué año se independizó Estados Unidos?;1776;1801;1812;1824;1836;1
+¿Cuál es el océano más profundo de la Tierra?;Océano Índico;Océano Pacífico;Océano Atlántico;Océano Antártico;Océano Ártico;2
+¿Quién escribió "Hamlet"?;Friedrich Nietzsche;William Shakespeare;Charles Dickens;Jane Austen;Leo Tolstoy;2
+¿Cuál es el metal más denso?;Aluminio;Cobre;Oro;Plomo;Plata;4
+¿En qué país se encuentra la Gran Muralla China?;India;Rusia;Japón;Corea del Sur;China;5
+¿Cuál es el mayor desierto del mundo?;Desierto de Gobi;Desierto del Sáhara;Desierto de Atacama;Desierto de Kalahari;Antártida;2
+¿Quién fue el presidente de Estados Unidos durante la Guerra Civil?;Thomas Jefferson;George Washington;John Adams;Abraham Lincoln;Benjamin Franklin;4
+¿Cuál es la montaña más alta del mundo?;Monte Everest;Monte Kilimanjaro;Monte McKinley;Monte Fuji;Monte Aconcagua;1
+¿Cuál es el gas más abundante en la atmósfera terrestre?;Nitrógeno;Oxígeno;Dióxido de carbono;Helio;Hidrógeno;1
+¿Quién escribió "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;J.K. Rowling;H.G. Wells;1
+¿Cuál es el instrumento musical más grande de la orquesta?;Violín;Trompeta;Contrabajo;Flauta;Trombón;3
+¿En qué año se llevó a cabo la Revolución Rusa?;1917;1927;1937;1947;1957;1
+¿Cuál es el idioma más hablado en el mundo?;Español;Inglés;Chino mandarín;Hindi;Árabe;3
+¿Quién fue el primer emperador romano?;Julio César;Augusto;Nerón;Tiberio;Marco Aurelio;2
+¿Cuál es el símbolo químico del hidrógeno?;Hg;He;H;Ho;Hu;3
+¿En qué ciudad se encuentra la Torre de Pisa?;Roma;Nápoles;Florencia;Pisa;Venecia;4
+¿Quién fue el autor de "La Odisea"?;Homero;Sófocles;Eurípides;Esquilo;Aristófanes;1
+¿Cuál es el océano más frío del mundo?;Océano Pacífico;Océano Atlántico;Océano Índico;Océano Antártico;Océano Ártico;4
+¿En qué país se encuentra el desierto de Sahara?;Egipto;Argelia;Marruecos;Sudán;Túnez;2
+¿Cuál es el río más largo de Europa?;Río Támesis;Río Danubio;Río Rin;Río Volga;Río Loira;4
+¿Quién fue el primer astronauta en dar una vuelta a la Tierra?;Yuri Gagarin;Neil Armstrong;John Glenn;Buzz Aldrin;Alan Shepard;1
+¿Cuál es el instrumento musical nacional de Japón?;Trompeta;Violín;Koto;Flauta;Piano;3
+¿En qué país se encuentra el Gran Cañón del Colorado?;México;Canadá;Estados Unidos;Perú;Chile;3
+¿Cuál es el símbolo químico del carbono?;C;Ca;Cr;Co;Cu;1
+¿Quién escribió "Matar a un ruiseñor"?;J.K. Rowling;George Orwell;Harper Lee;Ray Bradbury;Aldous Huxley;3
+¿Cuál es el país más pequeño del mundo?;San Marino;Mónaco;Ciudad del Vaticano;Liechtenstein;Andorra;3
+¿Cuál es el océano más grande del mundo?;Océano Pacífico;Océano Atlántico;Océano Índico;Océano Antártico;Océano Ártico;1
+¿Quién escribió "Mujer en punto cero"?;Naguib Mahfouz;Khaled Hosseini;Nawal El Saadawi;Alaa Al Aswany;Tayeb Salih;3
+¿Cuál es la capital de Brasil?;Río de Janeiro;Brasilia;Sao Paulo;Salvador;Recife;2
+¿En qué año se llevó a cabo la Revolución Francesa?;1750;1776;1789;1812;1830;3
+¿Cuál es el gas más abundante en la atmósfera terrestre?;Nitrógeno;Oxígeno;Dióxido de carbono;Helio;Hidrógeno;1
+¿Quién escribió "La metamorfosis"?;Hermann Hesse;Franz Kafka;Thomas Mann;Günter Grass;Hans Fallada;2
+¿Cuál es el continente con más países?;Asia;África;Europa;América del Sur;Oceanía;2
+¿Cuál es el símbolo químico del hierro?;Fe;I;Ir;Hg;He;1
+¿Quién fue el fundador del psicoanálisis?;Carl Jung;Ivan Pavlov;Sigmund Freud;Erik Erikson;Jean Piaget;3
+¿Cuál es la capital de Australia?;Sidney;Melbourne;Brisbane;Canberra;Perth;4
+¿En qué país se encuentra el desierto de Gobi?;Mongolia;Kazajistán;China;India;Rusia;1
+¿Cuál es el río más largo de África?;Río Nilo;Río Congo;Río Zambeze;Río Níger;Río Limpopo;1
+¿Quién pintó "Los lirios de agua"?;Claude Monet;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Salvador Dalí;1
+¿Cuál es el planeta más pequeño del sistema solar?;Venus;Tierra;Marte;Mercurio;Júpiter;4
+¿Quién escribió "Crimen y castigo"?;León Tolstói;Fiódor Dostoievski;Giovanni Boccaccio;Jorge Luis Borges;Gustave Flaubert;2
+¿Cuál es el metal más abundante en la corteza terrestre?;Aluminio;Cobre;Oro;Plomo;Plata;1
+¿Cuál es el río que pasa por París?;Río Támesis;Río Rin;Río Sena;Río Danubio;Río Loira;3
+¿Quién fue el primer ser humano en el espacio?;Neil Armstrong;Buzz Aldrin;Yuri Gagarin;John Glenn;Alan Shepard;3
+¿Cuál es el país más grande de América del Sur?;Brasil;Argentina;Chile;Perú;Colombia;1
+¿Quién escribió "El retrato de Dorian Gray"?;H.G. Wells;George Orwell;Oscar Wilde;Aldous Huxley;James Joyce;3
+¿Cuál es el océano más profundo de la Tierra?;Océano Índico;Océano Pacífico;Océano Atlántico;Océano Antártico;Océano Ártico;2
+¿En qué país se encuentra el desierto de Atacama?;Argentina;Brasil;Chile;México;Perú;3
+¿Cuál es el símbolo químico del sodio?;So;Si;Sd;Na;Ni;4
+¿Quién fue el primer presidente de Estados Unidos?;Thomas Jefferson;George Washington;John Adams;Abraham Lincoln;Benjamin Franklin;2
+¿Cuál es la montaña más alta de Europa?;Monte Vesubio;Monte Elbrús;Monte Cervino;Monte Rosa;Monte Blanc;2
+¿Cuál es el idioma oficial de Brasil?;Inglés;Español;Portugués;Francés;Italiano;3
+¿Quién fue el primer emperador romano?;Julio César;Augusto;Nerón;Tiberio;Marco Aurelio;2
+¿Cuál es el símbolo químico del helio?;He;Hl;Ho;Ha;Hu;1
+¿En qué ciudad se encuentra la Estatua de la Libertad?;Los Ángeles;Nueva York;Washington D.C.;Chicago;San Francisco;2
+¿Quién escribió "La Ilíada"?;Homero;Sófocles;Eurípides;Esquilo;Aristófanes;1
+¿Cuál es el símbolo químico del potasio?;Po;Pt;Pa;K;Kr;4
+¿Quién escribió "Matar a un ruiseñor"?;George Orwell;Aldous Huxley;Harper Lee;Ray Bradbury;J.K. Rowling;3
+¿Cuál es la capital de Canadá?;Toronto;Vancouver;Montreal;Ottawa;Calgary;4
+¿En qué país se encuentra el Monte Kilimanjaro?;Kenia;Etiopía;Uganda;Tanzania;Rwanda;4
+¿Cuál es el país más poblado de Europa?;Francia;Alemania;Reino Unido;España;Rusia;2
+¿Cuál es el río más largo de Asia?;Río Amarillo;Río Yangtsé;Río Indo;Río Ganges;Río Mekong;2
+¿Quién escribió "Crimen y castigo"?;León Tolstói;Fiódor Dostoievski;Giovanni Boccaccio;Jorge Luis Borges;Gustave Flaubert;2
+¿Cuál es el metal más caro del mundo?;Oro;Plata;Paladio;Platino;Rodio;4
+¿En qué país se encuentra la ciudad de Petra?;Egipto;Jordania;Israel;Líbano;Siria;2
+¿Cuál es la capital de Noruega?;Estocolmo;Helsinki;Copenhague;Reykjavik;Oslo;5
+¿Cuál es el océano más cálido del mundo?;Océano Atlántico;Océano Índico;Océano Pacífico;Océano Antártico;Océano Índico;2
+¿Quién fue el autor de "El Gran Gatsby"?;Ernest Hemingway;F. Scott Fitzgerald;John Steinbeck;J.D. Salinger;Mark Twain;2
+¿Cuál es el país más pequeño de África?;Argelia;Marruecos;Túnez;Seychelles;Lesoto;4
+¿Cuál es el símbolo químico del uranio?;U;Rn;Us;Ur;Un;1
+¿En qué país se encuentra el lago Baikal?;Rusia;Canadá;Estados Unidos;China;Mongolia;1
+¿Cuál es la capital de Suecia?;Estocolmo;Helsinki;Copenhague;Reykjavik;Oslo;1
+¿Quién escribió "Cien años de soledad"?;Mario Vargas Llosa;Pablo Neruda;Gabriel García Márquez;Isabel Allende;Julio Cortázar;3
+¿Cuál es el país con la mayor cantidad de islas en el mundo?;Indonesia;Filipinas;Maldivas;Japón;Suecia;1
+¿Cuál es el océano más salado del mundo?;Océano Atlántico;Océano Índico;Océano Pacífico;Océano Antártico;Mar Muerto;5
+¿Quién fue el primer astronauta en caminar en la Luna?;Neil Armstrong;Buzz Aldrin;Yuri Gagarin;John Glenn;Alan Shepard;1
+¿Cuál es el río más largo de Norteamérica?;Río Columbia;Río San Lorenzo;Río Misisipi;Río Colorado;Río Missouri;3
+¿En qué país se encuentra la Gran Muralla China?;India;Rusia;Japón;Corea del Sur;China;5
+¿Cuál es el mayor desierto del mundo?;Desierto de Gobi;Desierto del Sáhara;Desierto de Atacama;Desierto de Kalahari;Antártida;2
+¿Cuál es el lago más profundo del mundo?;Lago Baikal;Lago Superior;Lago Victoria;Lago Tanganica;Lago Hurón;1
+¿Cuál es la capital de Tailandia?;Bangkok;Hanoi;Phnom Penh;Manila;Yangón;1
+¿Quién escribió "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;J.K. Rowling;H.G. Wells;1
+¿Cuál es la ciudad más poblada de Estados Unidos?;Los Ángeles;Chicago;Nueva York;Houston;Miami;3
+¿Cuál es el país más montañoso de Europa?;Suiza;Austria;Italia;Francia;España;1
+¿Cuál es el océano más profundo del mundo?;Océano Índico;Océano Pacífico;Océano Atlántico;Océano Antártico;Océano Ártico;2
+¿Cuál es la capital de Egipto?;Alejandría;Luxor;Cairo;Sharm El Sheikh;Aswan;3
+¿Quién escribió "El retrato de Dorian Gray"?;H.G. Wells;George Orwell;Oscar Wilde;Aldous Huxley;James Joyce;3
+¿Cuál es el símbolo químico del sodio?;So;Si;Sd;Na;Ni;4
+¿En qué ciudad se encuentra la Torre de Pisa?;Roma;Nápoles;Florencia;Pisa;Venecia;4
+¿Cuál es el país más grande de América Central?;Belice;Costa Rica;El Salvador;Guatemala;Honduras;4
+¿Quién fue el autor de "La Odisea"?;Homero;Sófocles;Eurípides;Esquilo;Aristófanes;1
+¿Cuál es el océano más frío del mundo?;Océano Pacífico;Océano Atlántico;Océano Índico;Océano Antártico;Océano Ártico;4
+¿En qué país se encuentra el desierto de Sahara?;Egipto;Argelia;Marruecos;Sudán;Túnez;2
+¿Cuál es el continente con la mayor población?;Asia;África;Europa;América del Sur;Oceanía;1
+¿Cuál es el símbolo químico del calcio?;Ca;Co;Cr;Cu;Cd;1
+¿Quién escribió "Matar a un ruiseñor"?;George Orwell;Aldous Huxley;Harper Lee;Ray Bradbury;J.K. Rowling;3
+¿Cuál es la capital de Canadá?;Toronto;Vancouver;Montreal;Ottawa;Calgary;4
+¿En qué año se llevó a cabo la Revolución Francesa?;1750;1776;1789;1812;1830;3
+¿Cuál es el gas más abundante en la atmósfera terrestre?;Nitrógeno;Oxígeno;Dióxido de carbono;Helio;Hidrógeno;1
+¿Quién escribió "La metamorfosis"?;Hermann Hesse;Franz Kafka;Thomas Mann;Günter Grass;Hans Fallada;2
+¿Cuál es el continente con más países?;Asia;África;Europa;América del Sur;Oceanía;2
+¿Cuál es el símbolo químico del hierro?;Fe;I;Ir;Hg;He;1
+¿Quién fue el fundador del psicoanálisis?;Carl Jung;Ivan Pavlov;Sigmund Freud;Erik Erikson;Jean Piaget;3
+¿Cuál es la capital de Australia?;Sidney;Melbourne;Brisbane;Canberra;Perth;4
+¿En qué país se encuentra el desierto de Gobi?;Mongolia;Kazajistán;China;India;Rusia;1
+¿Cuál es el río más largo de África?;Río Nilo;Río Congo;Río Zambeze;Río Níger;Río Limpopo;1
+¿Quién pintó "Los lirios de agua"?;Claude Monet;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Salvador Dalí;1
+¿Cuál es el planeta más pequeño del sistema solar?;Venus;Tierra;Marte;Mercurio;Júpiter;4
+¿Quién escribió "Crimen y castigo"?;León Tolstói;Fiódor Dostoievski;Giovanni Boccaccio;Jorge Luis Borges;Gustave Flaubert;2
+¿Cuál es el metal más caro del mundo?;Oro;Plata;Paladio;Platino;Rodio;4
+¿En qué país se encuentra la ciudad de Petra?;Egipto;Jordania;Israel;Líbano;Siria;2
+¿Cuál es la capital de Noruega?;Estocolmo;Helsinki;Copenhague;Reykjavik;Oslo;5
+¿Cuál es el océano más cálido del mundo?;Océano Atlántico;Océano Índico;Océano Pacífico;Océano Antártico;Océano Índico;2
+¿Quién fue el autor de "El Gran Gatsby"?;Ernest Hemingway;F. Scott Fitzgerald;John Steinbeck;J.D. Salinger;Mark Twain;2
+¿Cuál es el país más pequeño de África?;Argelia;Marruecos;Túnez;Seychelles;Lesoto;4
+¿Cuál es el símbolo químico del uranio?;U;Rn;Us;Ur;Un;1
+¿En qué país se encuentra el lago Baikal?;Rusia;Canadá;Estados Unidos;China;Mongolia;1
+¿Cuál es la capital de Suecia?;Estocolmo;Helsinki;Copenhague;Reykjavik;Oslo;1
+¿Quién escribió "Cien años de soledad"?;Mario Vargas Llosa;Pablo Neruda;Gabriel García Márquez;Isabel Allende;Julio Cortázar;3
+¿Cuál es el país con la mayor cantidad de islas en el mundo?;Indonesia;Filipinas;Maldivas;Japón;Suecia;1
+¿Cuál es el océano más salado del mundo?;Océano Atlántico;Océano Índico;Océano Pacífico;Océano Antártico;Mar Muerto;5
+¿En qué ciudad se encuentra la Torre de Pisa?;Roma;Nápoles;Florencia;Pisa;Venecia;4
+¿Cuál es el país más grande de América Central?;Belice;Costa Rica;El Salvador;Guatemala;Honduras;4
+¿Quién fue el autor de "La Odisea"?;Homero;Sófocles;Eurípides;Esquilo;Aristófanes;1
+¿Cuál es el océano más frío del mundo?;Océano Pacífico;Océano Atlántico;Océano Índico;Océano Antártico;Océano Ártico;4
+¿En qué país se encuentra el desierto de Sahara?;Egipto;Argelia;Marruecos;Sudán;Túnez;2
+¿Cuál es el río más largo de Europa?;Río Támesis;Río Danubio;Río Rin;Río Volga;Río Loira;4
+¿Quién fue el primer ser humano en el espacio?;Neil Armstrong;Buzz Aldrin;Yuri Gagarin;John Glenn;Alan Shepard;3
+¿Cuál es el país más grande de América del Norte?;Canadá;Estados Unidos;México;Groenlandia;Cuba;1
+¿Cuál es el símbolo químico del titanio?;T;Ti;Ta;Te;Tr;2
+¿En qué país se encuentra el lago Titicaca?;Perú;Bolivia;Argentina;Chile;Ecuador;2
+¿En qué país se originó el fútbol moderno?;Inglaterra;Brasil;Argentina;España;Italia;1
+¿Cuántos jugadores hay en un equipo de fútbol en el campo durante un partido?;9;10;11;12;8;3
+¿Cuál es el máximo torneo de selecciones nacionales en el fútbol europeo?;Copa América;Copa del Mundo;Copa Africana de Naciones;Eurocopa;Copa Asia;4
+¿Qué equipo ganó la Copa Mundial de la FIFA 2018?;Argentina;Brasil;Francia;Alemania;Italia;3
+¿Cuál es el club de fútbol con más Copas de Europa (Ligas de Campeones de la UEFA)?;Real Madrid;Barcelona;Manchester United;Bayern de Múnich;Milan;1
+¿En qué país se encuentra el estadio Maracaná?;Brasil;Argentina;Uruguay;Chile;Perú;1
+¿Cuál es el país con más Copas Mundiales de la FIFA ganadas?;Argentina;Brasil;Italia;Alemania;Uruguay;2
+¿Quién es el máximo goleador en la historia de la Copa del Mundo?;Diego Maradona;Pelé;Miroslav Klose;Lionel Messi;Cristiano Ronaldo;3
+¿Cuál es el nombre del premio otorgado al mejor jugador del mundo cada año?;Balón de Oro;Botín de Oro;Bota de Oro;Balón de Plata;Botín de Plata;1
+¿Cuál es el equipo de fútbol más antiguo del mundo?;Barcelona;Real Madrid;Sheffield FC;Manchester United;Bayern de Múnich;3
+¿Quién es el entrenador del FC Barcelona en la temporada 2023-2024?;Pep Guardiola;Luis Enrique;Xavi Hernández;Diego Simeone;Jurgen Klopp;3
+¿Cuál es el país con más Copas América ganadas en la historia?;Argentina;Brasil;Uruguay;Chile;Colombia;3
+¿Cuál es el equipo de fútbol más exitoso de la Serie A italiana en términos de títulos de liga?;Inter de Milán;Juventus;AC Milan;Napoli;Roma;2
+¿En qué país se celebró la Copa Mundial de la FIFA 2002?;Brasil;Japón y Corea del Sur;Italia;Alemania;Francia;2
+¿Cuál es el club de fútbol con más títulos de la Premier League inglesa?;Liverpool;Manchester United;Chelsea;Arsenal;Manchester City;2
+¿Quién es conocido como el "Fenómeno" en el mundo del fútbol?;Cristiano Ronaldo;Lionel Messi;Neymar;Ronaldinho;Ronaldo Nazário;4
+¿Cuál es el club de fútbol más exitoso de Argentina en términos de títulos de liga?;River Plate;Boca Juniors;Independiente;Racing Club;San Lorenzo;2
+¿Quién es el máximo goleador de la selección española de fútbol?;David Villa;Fernando Torres;Raúl;Fernando Hierro;Iker Casillas;1
+¿Cuál es el nombre del estadio del FC Bayern de Múnich?;Allianz Arena;Signal Iduna Park;Mercedes-Benz Arena;Volkswagen Arena;Commerzbank-Arena;1
+¿En qué país se celebró la Copa América 2021?;Argentina;Brasil;Chile;Colombia;Perú;2
+¿Cuál es el equipo de fútbol con más títulos de la Bundesliga alemana?;Bayern de Múnich;Borussia Dortmund;Hamburgo;Werder Bremen;Bayer Leverkusen;1
+¿Quién es el máximo goleador en la historia de la Premier League inglesa?;Thierry Henry;Alan Shearer;Wayne Rooney;Andy Cole;Frank Lampard;2
+¿Cuál es el país con más Copas Mundiales de la FIFA ganadas en categoría femenina?;Brasil;Alemania;Estados Unidos;Noruega;Suecia;3
+¿Cuál es el nombre del trofeo otorgado al ganador de la Copa Mundial de la FIFA?;Copa del Mundo;Balón de Oro;Trofeo Mundial;Premio FIFA;Copa Jules Rimet;1
+¿En qué país se originó el fútbol moderno?;Inglaterra;Brasil;Argentina;España;Italia;1
+¿Cuántos jugadores hay en un equipo de fútbol en el campo durante un partido?;9;10;11;12;8;3
+¿Cuál es el máximo torneo de selecciones nacionales en el fútbol europeo?;Copa América;Copa del Mundo;Copa Africana de Naciones;Eurocopa;Copa Asia;4
+¿Qué equipo ganó la Copa Mundial de la FIFA 2018?;Argentina;Brasil;Francia;Alemania;Italia;3
+¿Cuál es el club de fútbol con más Copas de Europa (Ligas de Campeones de la UEFA)?;Real Madrid;Barcelona;Manchester United;Bayern de Múnich;Milan;1
+¿En qué país se encuentra el estadio Maracaná?;Brasil;Argentina;Uruguay;Chile;Perú;1
+¿Cuál es el país con más Copas Mundiales de la FIFA ganadas?;Argentina;Brasil;Italia;Alemania;Uruguay;2
+¿Quién es el máximo goleador en la historia de la Copa del Mundo?;Diego Maradona;Pelé;Miroslav Klose;Lionel Messi;Cristiano Ronaldo;3
+¿Quién es conocido como "El Pibe de Oro"?;Diego Maradona;Pelé;Lionel Messi;Cristiano Ronaldo;Ronaldinho;1
+¿En qué país se celebró la Copa Mundial de la FIFA 2014?;Argentina;Brasil;Alemania;Francia;Italia;2
+¿Cuál es el club de fútbol con más títulos de la Serie A italiana en términos de Copas de Italia?;Inter de Milán;Juventus;AC Milan;Napoli;Roma;2
+¿Quién es el entrenador del Real Madrid en la temporada 2023-2024?;Zinedine Zidane;Carlo Ancelotti;Mauricio Pochettino;Diego Simeone;Jurgen Klopp;2
+¿Cuál es el país con más Copas América ganadas en la historia?;Argentina;Brasil;Uruguay;Chile;Colombia;3
+¿Cuál es el equipo de fútbol más exitoso de la Bundesliga alemana en términos de títulos de liga?;Bayern de Múnich;Borussia Dortmund;Hamburgo;Werder Bremen;Bayer Leverkusen;1
+¿Quién es el máximo goleador de la selección española de fútbol?;David Villa;Fernando Torres;Raúl;Fernando Hierro;Iker Casillas;1
+¿Cuál es el nombre del estadio del FC Bayern de Múnich?;Allianz Arena;Signal Iduna Park;Mercedes-Benz Arena;Volkswagen Arena;Commerzbank-Arena;1
+¿En qué país se celebró la Copa América 2021?;Argentina;Brasil;Chile;Colombia;Perú;2
+¿Cuál es el equipo de fútbol más exitoso de Argentina en términos de Copas Libertadores ganadas?;River Plate;Boca Juniors;Independiente;Racing Club;San Lorenzo;2
+¿Quién es el máximo goleador de la Bundesliga alemana en la historia?;Gerd Müller;Robert Lewandowski;Klaus Fischer;Miroslav Klose;Thierry Henry;1
+¿Cuál es el país con más Copas del Mundo Sub-20 de la FIFA ganadas?;Brasil;Argentina;Uruguay;España;Portugal;1
+¿Cuál es el nombre del estadio del Barcelona FC?;Camp Nou;Santiago Bernabéu;Wanda Metropolitano;Anfield;Old Trafford;1
+¿En qué país se originó el fútbol moderno?;Inglaterra;Brasil;Argentina;España;Italia;1
+¿Cuál es el equipo de fútbol más antiguo del mundo?;Barcelona;Real Madrid;Sheffield FC;Manchester United;Bayern de Múnich;3
+¿Quién es el entrenador del FC Barcelona en la temporada 2023-2024?;Pep Guardiola;Luis Enrique;Xavi Hernández;Diego Simeone;Jurgen Klopp;3
+¿Cuál es el país con más Copas América ganadas en la historia?;Argentina;Brasil;Uruguay;Chile;Colombia;3
+¿Cuál es el equipo de fútbol más exitoso de la Serie A italiana en términos de títulos de liga?;Inter de Milán;Juventus;AC Milan;Napoli;Roma;2
+¿Quién es el máximo goleador en la historia de la Copa América?;Pelé;Lionel Messi;Neymar;Zizinho;Teófilo Cubillas;1
+¿Cuál es el nombre del estadio del Paris Saint-Germain (PSG)?;Parc des Princes;Stade de France;Emirates Stadium;Allianz Arena;Estadio Azteca;1
+¿En qué país se celebró la Copa Mundial de la FIFA 2002?;Brasil;Japón y Corea del Sur;Italia;Alemania;Francia;2
+¿Cuál es el equipo de fútbol más exitoso de la Eredivisie neerlandesa en términos de títulos de liga?;Ajax;PSV Eindhoven;Feyenoord;AZ Alkmaar;Utrecht;1
+¿Quién es el máximo goleador de la selección alemana de fútbol?;Miroslav Klose;Gerd Müller;Thomas Müller;Lukas Podolski;Jurgen Klinsmann;2
+¿Cuál es el nombre del estadio del Arsenal FC?;Emirates Stadium;Old Trafford;Anfield;Stamford Bridge;Etihad Stadium;1
+¿En qué país se originó el fútbol moderno?;Inglaterra;Brasil;Argentina;España;Italia;1
+¿Cuántos jugadores hay en un equipo de fútbol en el campo durante un partido?;9;10;11;12;8;3
+¿Cuál es el máximo torneo de selecciones nacionales en el fútbol europeo?;Copa América;Copa del Mundo;Copa Africana de Naciones;Eurocopa;Copa Asia;4
+¿Qué equipo ganó la Copa Mundial de la FIFA 2018?;Argentina;Brasil;Francia;Alemania;Italia;3
+¿Cuál es el club de fútbol con más Copas de Europa (Ligas de Campeones de la UEFA)?;Real Madrid;Barcelona;Manchester United;Bayern de Múnich;Milan;1
+¿En qué país se encuentra el estadio Maracaná?;Brasil;Argentina;Uruguay;Chile;Perú;1
+¿Cuál es el país con más Copas Mundiales de la FIFA ganadas?;Argentina;Brasil;Italia;Alemania;Uruguay;2
+¿Quién es el máximo goleador en la historia de la Copa del Mundo?;Diego Maradona;Pelé;Miroslav Klose;Lionel Messi;Cristiano Ronaldo;3
+¿Cuál es el nombre del premio otorgado al mejor jugador del mundo cada año?;Balón de Oro;Botín de Oro;Bota de Oro;Balón de Plata;Botín de Plata;1
+¿Quién es el director de la película "Titanic" (1997)?;James Cameron;Steven Spielberg;Martin Scorsese;Quentin Tarantino;Peter Jackson;1
+¿En qué película interpreta Morgan Freeman a un recluso llamado Red?;Shawshank Redemption;Seven;Driving Miss Daisy;Glory;Million Dollar Baby;1
+¿Cuál es la película de ciencia ficción de 1977 dirigida por George Lucas que dio inicio a la saga de Star Wars?;Star Wars: Episode I - The Phantom Menace;Star Wars: Episode IV - A New Hope;Star Wars: Episode VII - The Force Awakens;Star Wars: Episode IX - The Rise of Skywalker;Star Wars: Episode IV - A New Hope;2
+¿Quién interpretó el papel de Tony Stark en la serie de películas de Iron Man y en el Universo Cinematográfico de Marvel?;Robert Downey Jr.;Chris Hemsworth;Chris Evans;Mark Ruffalo;Hugh Jackman;1
+¿Cuál es la película que ganó el Premio de la Academia a la Mejor Película en 1994, dirigida por Robert Zemeckis y protagonizada por Tom Hanks?;Forrest Gump;Pulp Fiction;The Shawshank Redemption;Schindler's List;The Lion King;1
+¿Quién interpretó a Katniss Everdeen en la serie de películas de Los Juegos del Hambre?;Emma Stone;Jennifer Lawrence;Scarlett Johansson;Anne Hathaway;Natalie Portman;2
+¿Cuál es la película de terror de 1973 dirigida por William Friedkin que se basa en un caso real de posesión demoníaca?;El Exorcista;Poltergeist;El Sexto Sentido;Actividad Paranormal;Carrie;1
+¿Qué película ganó el Óscar a la Mejor Película en la 92ª edición de los Premios de la Academia en 2020?;Parasite;1917;Joker;Once Upon a Time in Hollywood;The Irishman;1
+¿Quién dirigió la trilogía de "El Señor de los Anillos"?;Steven Spielberg;George Lucas;Peter Jackson;James Cameron;Ridley Scott;3
+¿Cuál es la película de Pixar sobre un ratón que sueña con ser chef en París?;Ratatouille;The Incredibles;Finding Nemo;Up;Cars;1
+¿Quién interpretó a Jack en la película "El Resplandor" (1980) dirigida por Stanley Kubrick?;Tom Hanks;Jack Nicholson;Robert De Niro;Al Pacino;Liam Neeson;2
+¿Cuál es la película de 2010 dirigida por Christopher Nolan que se desarrolla en los sueños?;Inception;Interstellar;The Prestige;Memento;The Dark Knight;1
+¿En qué película interpreta Johnny Depp al Capitán Jack Sparrow?;Pirates of the Caribbean: The Curse of the Black Pearl;The Lone Ranger;Charlie and the Chocolate Factory;Edward Scissorhands;Donnie Brasco;1
+¿Cuál es la película de Disney sobre una joven que se convierte en una princesa después de tocar una rosa encantada?;Cinderella;Beauty and the Beast;Frozen;Moana;Tangled;2
+¿Quién interpretó a John McClane en la película de acción "Duro de Matar" (Die Hard) de 1988?;Arnold Schwarzenegger;Mel Gibson;Bruce Willis;Sylvester Stallone;Kurt Russell;3
+¿Cuál es la película de ciencia ficción de 1968 dirigida por Stanley Kubrick y conocida por su icónica escena de la evolución humana?;2001: A Space Odyssey;Blade Runner;Star Wars;The Matrix;E.T. the Extra-Terrestrial;1
+¿Quién dirigió la trilogía de "El Padrino"?;Francis Ford Coppola;Martin Scorsese;Quentin Tarantino;Brian De Palma;Alfred Hitchcock;1
+¿Cuál es la película de Quentin Tarantino de 1994 que se centra en dos asesinos a sueldo y un misterioso maletín?;Pulp Fiction;Reservoir Dogs;Kill Bill;Jackie Brown;Inglourious Basterds;1
+¿Quién interpretó a Katniss Everdeen en la serie de películas de Los Juegos del Hambre?;Emma Stone;Jennifer Lawrence;Scarlett Johansson;Anne Hathaway;Natalie Portman;2
+¿En qué película del director Christopher Nolan los personajes se comunican a través de mensajes enviados desde el futuro?;Inception;Interstellar;The Prestige;Memento;The Dark Knight;2
+¿Cuál es la película de Disney sobre una joven que se convierte en una princesa después de tocar una rosa encantada?;Cinderella;Beauty and the Beast;Frozen;Moana;Tangled;2
+¿Quién interpretó a John McClane en la película de acción "Duro de Matar" (Die Hard) de 1988?;Arnold Schwarzenegger;Mel Gibson;Bruce Willis;Sylvester Stallone;Kurt Russell;3
+¿Cuál es la película de ciencia ficción de 1968 dirigida por Stanley Kubrick y conocida por su icónica escena de la evolución humana?;2001: A Space Odyssey;Blade Runner;Star Wars;The Matrix;E.T. the Extra-Terrestrial;1
+¿Quién dirigió la trilogía de "El Padrino"?;Francis Ford Coppola;Martin Scorsese;Quentin Tarantino;Brian De Palma;Alfred Hitchcock;1
+¿Cuál es la película de Quentin Tarantino de 1994 que se centra en dos asesinos a sueldo y un misterioso maletín?;Pulp Fiction;Reservoir Dogs;Kill Bill;Jackie Brown;Inglourious Basterds;1
+¿Cuál es la película de ciencia ficción de 1982 dirigida por Ridley Scott que se desarrolla en un futuro distópico y cuenta la historia de androides llamados "replicantes"?;Blade Runner;E.T. the Extra-Terrestrial;The Terminator;Star Wars: Episode IV - A New Hope;Alien;1
+¿Quién interpretó a la detective Clarice Starling en la película "The Silence of the Lambs" (1991)?;Meryl Streep;Jodie Foster;Sigourney Weaver;Michelle Pfeiffer;Sharon Stone;2
+¿Cuál es la película de Steven Spielberg de 1993 que cuenta la historia de un parque temático con dinosaurios vivos?;Jurassic Park;E.T. the Extra-Terrestrial;Close Encounters of the Third Kind;War of the Worlds;A.I. Artificial Intelligence;1
+¿Quién interpretó a Wolverine en la serie de películas de los X-Men?;Hugh Jackman;Patrick Stewart;Ian McKellen;James McAvoy;Michael Fassbender;1
+¿Cuál es la película de Disney de 1994 que se desarrolla en la sabana africana y cuenta la historia de un joven león llamado Simba?;The Little Mermaid;Beauty and the Beast;The Lion King;Aladdin;Pocahontas;3
+¿Quién dirigió la trilogía de "The Dark Knight" (Batman) protagonizada por Christian Bale?;Christopher Nolan;Zack Snyder;Tim Burton;Joel Schumacher;Sam Raimi;1
+¿Cuál es la película de 2001 dirigida por Peter Jackson que adapta la novela de J.R.R. Tolkien y se desarrolla en la Tierra Media?;The Hobbit;The Lord of the Rings: The Fellowship of the Ring;Harry Potter and the Sorcerer's Stone;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;The Matrix;2
+¿Quién interpretó a Katniss Everdeen en la serie de películas de Los Juegos del Hambre?;Emma Stone;Jennifer Lawrence;Scarlett Johansson;Anne Hathaway;Natalie Portman;2
+¿Cuál es la película de Quentin Tarantino de 1994 que se centra en dos asesinos a sueldo y un misterioso maletín?;Pulp Fiction;Reservoir Dogs;Kill Bill;Jackie Brown;Inglourious Basterds;1
+¿En qué película del director Christopher Nolan los personajes se comunican a través de mensajes enviados desde el futuro?;Inception;Interstellar;The Prestige;Memento;The Dark Knight;2
+¿Quién interpretó a Katniss Everdeen en la serie de películas de Los Juegos del Hambre?;Emma Stone;Jennifer Lawrence;Scarlett Johansson;Anne Hathaway;Natalie Portman;2
+¿Cuál es la película de Disney sobre una joven que se convierte en una princesa después de tocar una rosa encantada?;Cinderella;Beauty and the Beast;Frozen;Moana;Tangled;2
+¿Quién interpretó a John McClane en la película de acción "Duro de Matar" (Die Hard) de 1988?;Arnold Schwarzenegger;Mel Gibson;Bruce Willis;Sylvester Stallone;Kurt Russell;3
+¿Cuál es la película de ciencia ficción de 1968 dirigida por Stanley Kubrick y conocida por su icónica escena de la evolución humana?;2001: A Space Odyssey;Blade Runner;Star Wars;The Matrix;E.T. the Extra-Terrestrial;1
+¿Quién dirigió la trilogía de "El Padrino"?;Francis Ford Coppola;Martin Scorsese;Quentin Tarantino;Brian De Palma;Alfred Hitchcock;1
+¿Cuál es la película de Quentin Tarantino de 1994 que se centra en dos asesinos a sueldo y un misterioso maletín?;Pulp Fiction;Reservoir Dogs;Kill Bill;Jackie Brown;Inglourious Basterds;1
+¿Cuál es la película de ciencia ficción de 1982 dirigida por Ridley Scott que se desarrolla en un futuro distópico y cuenta la historia de androides llamados "replicantes"?;Blade Runner;E.T. the Extra-Terrestrial;The Terminator;Star Wars: Episode IV - A New Hope;Alien;1
+¿Quién interpretó a la detective Clarice Starling en la película "The Silence of the Lambs" (1991)?;Meryl Streep;Jodie Foster;Sigourney Weaver;Michelle Pfeiffer;Sharon Stone;2
+¿Cuál es la película de Steven Spielberg de 1993 que cuenta la historia de un parque temático con dinosaurios vivos?;Jurassic Park;E.T. the Extra-Terrestrial;Close Encounters of the Third Kind;War of the Worlds;A.I. Artificial Intelligence;1
+¿Quién interpretó a Wolverine en la serie de películas de los X-Men?;Hugh Jackman;Patrick Stewart;Ian McKellen;James McAvoy;Michael Fassbender;1
+¿Cuál es la película de Disney de 1994 que se desarrolla en la sabana africana y cuenta la historia de un joven león llamado Simba?;The Little Mermaid;Beauty and the Beast;The Lion King;Aladdin;Pocahontas;3
+¿Quién dirigió la trilogía de "The Dark Knight" (Batman) protagonizada por Christian Bale?;Christopher Nolan;Zack Snyder;Tim Burton;Joel Schumacher;Sam Raimi;1
+¿Cuál es la película de 2001 dirigida por Peter Jackson que adapta la novela de J.R.R. Tolkien y se desarrolla en la Tierra Media?;The Hobbit;The Lord of the Rings: The Fellowship of the Ring;Harry Potter and the Sorcerer's Stone;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;The Matrix;2
+¿Quién interpretó a Katniss Everdeen en la serie de películas de Los Juegos del Hambre?;Emma Stone;Jennifer Lawrence;Scarlett Johansson;Anne Hathaway;Natalie Portman;2
+¿Cuál es la película de Quentin Tarantino de 1994 que se centra en dos asesinos a sueldo y un misterioso maletín?;Pulp Fiction;Reservoir Dogs;Kill Bill;Jackie Brown;Inglourious Basterds;1
+¿Quién pintó la Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Frida Kahlo;Rembrandt;3
+¿Cuál de los siguientes no es un estilo artístico?;Barroco;Renacimiento;Barcelona;Cubismo;Romanticismo;3
+¿En qué país nació el famoso pintor Salvador Dalí?;Francia;España;Italia;México;Alemania;2
+¿Quién es el autor de la obra "Guernica"?;Pablo Picasso;Vincent van Gogh;Claude Monet;Frida Kahlo;Salvador Dalí;1
+¿Qué famoso pintor impresionista es conocido por sus nenúfares?;Claude Monet;Edgar Degas;Pierre-Auguste Renoir;Camille Pissarro;Henri de Toulouse-Lautrec;1
+¿Cuál de estos colores no es uno de los colores primarios en la pintura?;Verde;Azul;Rojo;Amarillo;Negro;1
+¿Qué escultor renacentista creó la famosa estatua "David"?;Miguel Ángel;Donatello;Rafael;Leonardo da Vinci;Giorgio Vasari;1
+¿Quién es conocido por sus "Acciones artísticas" en la década de 1970?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Andy Warhol;3
+¿Cuál de los siguientes movimientos artísticos se caracteriza por la representación de escenas cotidianas y la captura de la luz natural?;Barroco;Surrealismo;Realismo;Cubismo;Impresionismo;4
+¿Cuál de los siguientes artistas es conocido por sus obras de arte cinético?;Pablo Picasso;Salvador Dalí;Alexander Calder;Vincent van Gogh;René Magritte;3
+¿En qué siglo vivió el famoso pintor renacentista Leonardo da Vinci?;Siglo XV;Siglo XVI;Siglo XVII;Siglo XIV;Siglo XVIII;1
+¿Qué famoso pintor fue conocido como el "padre del impresionismo"?;Édouard Manet;Paul Cézanne;Claude Monet;Camille Pissarro;Georges Seurat;1
+¿Cuál de las siguientes obras de arte es un autorretrato de Frida Kahlo?;La noche estrellada;Los amantes;El grito;Autorretrato con collar de espinas;Las dos Fridas;4
+¿Cuál es el nombre del movimiento artístico que se caracteriza por la representación de objetos y figuras de manera abstracta y geométrica?;Cubismo;Realismo;Expresionismo;Surrealismo;Barroco;1
+¿Qué escultor griego antiguo es famoso por sus estatuas realistas?;Fidias;Praxíteles;Miron;Lisipo;Policleto;2
+¿Quién es conocido por pintar el techo de la Capilla Sixtina en el Vaticano?;Miguel Ángel;Rafael;Donatello;Leonardo da Vinci;Giorgio Vasari;1
+¿Cuál de los siguientes artistas es conocido por sus "action paintings"?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Andy Warhol;2
+¿En qué siglo se desarrolló el movimiento artístico conocido como el Romanticismo?;Siglo XVIII;Siglo XIX;Siglo XVII;Siglo XVI;Siglo XX;2
+¿Cuál de las siguientes obras es una creación de Vincent van Gogh?;La última cena;El beso;La noche estrellada;Los amantes;Guernica;3
+¿Quién es considerado uno de los fundadores del surrealismo y es conocido por sus pinturas de relojes derretidos?;Pablo Picasso;Salvador Dalí;René Magritte;Frida Kahlo;Andy Warhol;2
+¿Cuál de las siguientes pinturas se encuentra en la Capilla Sixtina?;La última cena;La creación de Adán;Guernica;El beso;Los amantes;2
+¿Qué famoso artista pop se hizo conocido por sus retratos de celebridades y latas de sopa Campbell?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Andy Warhol;5
+¿Cuál de las siguientes corrientes artísticas se caracteriza por la representación de sueños y elementos del subconsciente?;Renacimiento;Impresionismo;Realismo;Surrealismo;Barroco;4
+¿Quién pintó la famosa obra "El jardín de las delicias"?;Vincent van Gogh;Pablo Picasso;Hieronymus Bosch;Frida Kahlo;Rembrandt;3
+¿Cuál es la técnica de impresión que utiliza una plancha de metal grabada para transferir la imagen a papel?;Serigrafía;Litografía;Xilografía;Grabado calcográfico;Aguafuerte;4
+¿Quién es conocido por sus pinturas de mujeres con flores en el cabello y cejas unidas?;Georgia O'Keeffe;Frida Kahlo;Yayoi Kusama;Helen Frankenthaler;Cindy Sherman;1
+¿Cuál de los siguientes movimientos artísticos se caracteriza por la distorsión de la realidad y la representación de lo irreal?;Realismo;Impresionismo;Surrealismo;Renacimiento;Cubismo;3
+¿En qué país nació el pintor abstracto Wassily Kandinsky?;Rusia;Francia;Alemania;Italia;España;1
+¿Quién es considerado el padre de la escultura moderna y creó la escultura "El pensador"?;Auguste Rodin;Pablo Picasso;Henry Moore;Constantin Brancusi;Frida Kahlo;1
+¿Cuál de los siguientes artistas es conocido por sus ilustraciones de Alicia en el País de las Maravillas?;Vincent van Gogh;Pablo Picasso;Salvador Dalí;John Tenniel;Claude Monet;4
+¿Cuál de los siguientes artistas es conocido por su obra "El Grito"?;Vincent van Gogh;Pablo Picasso;Edvard Munch;Frida Kahlo;Salvador Dalí;3
+¿Qué movimiento artístico se caracteriza por la representación de escenas rurales y paisajes?;Cubismo;Impresionismo;Realismo;Renacimiento;Surrealismo;3
+¿Cuál de las siguientes corrientes artísticas se caracteriza por la representación de la vida cotidiana y la clase trabajadora?;Barroco;Renacimiento;Expresionismo;Realismo;Cubismo;4
+¿Quién es conocido por su pintura de la lengua larga y los elefantes rosados?;René Magritte;Pablo Picasso;Salvador Dalí;Frida Kahlo;Andy Warhol;3
+¿En qué país nació el pintor abstracto Piet Mondrian?;Países Bajos;Alemania;Bélgica;Francia;Rusia;1
+¿Quién es considerado uno de los principales exponentes del arte urbano y el graffiti?;Banksy;Keith Haring;Jean-Michel Basquiat;Damien Hirst;Jeff Koons;1
+¿Cuál de las siguientes pinturas es una creación de Johannes Vermeer?;La última cena;La joven de la perla;El jardín de las delicias;El nacimiento de Venus;Los amantes;2
+¿Qué famoso escultor creó "El beso"?;Pablo Picasso;Donatello;Auguste Rodin;Frida Kahlo;Leonardo da Vinci;3
+¿Cuál de los siguientes movimientos artísticos se caracteriza por la representación de la realidad de manera precisa y detallada?;Surrealismo;Impresionismo;Cubismo;Realismo;Barroco;4
+¿Quién es conocido por sus retratos de personas con rostros geométricos y colores vivos?;Frida Kahlo;Cubismo;Pop Art;René Magritte;Alex Katz;5
+¿Cuál de las siguientes obras es una creación de Diego Rivera?;La última cena;Los amantes;El hombre en una encrucijada;El grito;Guernica;3
+¿Qué movimiento artístico se caracteriza por la representación de la belleza idealizada y escenas mitológicas?;Romanticismo;Renacimiento;Realismo;Barroco;Clasicismo;2
+¿Quién es conocido por su serie de cuadros de latas de sopa Campbell?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Andy Warhol;5
+¿En qué siglo vivió el famoso pintor impresionista Pierre-Auguste Renoir?;Siglo XIX;Siglo XVIII;Siglo XX;Siglo XVII;Siglo XVI;1
+¿Cuál de las siguientes pinturas se encuentra en el techo de la Capilla Sixtina?;La última cena;La creación de Adán;Guernica;El beso;Los amantes;2
+¿Qué famoso artista del Renacimiento italiano es conocido por sus frescos en la Capilla Sixtina?;Miguel Ángel;Rafael;Donatello;Leonardo da Vinci;Giorgio Vasari;1
+¿Cuál de los siguientes movimientos artísticos se caracteriza por la representación de la fugacidad de la luz y el color?;Barroco;Surrealismo;Impresionismo;Realismo;Renacimiento;3
+¿Quién es conocido por su serie de pinturas de Marilyn Monroe?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Andy Warhol;5
+¿Cuál de los siguientes escultores es conocido por sus esculturas móviles?;Pablo Picasso;Henry Moore;Alexander Calder;Constantin Brancusi;René Magritte;3
+¿En qué país nació el pintor surrealista René Magritte?;Bélgica;Francia;España;Italia;Rusia;1
+¿Quién es conocido por su pintura "El nacimiento de Venus"?;Vincent van Gogh;Pablo Picasso;Edvard Munch;Sandro Botticelli;Frida Kahlo;4
+¿Cuál de los siguientes movimientos artísticos se caracteriza por la representación de la distorsión y el caos?;Surrealismo;Cubismo;Impresionismo;Renacimiento;Realismo;2
+¿Qué famoso pintor abstracto ruso es conocido por sus composiciones geométricas?;Wassily Kandinsky;Kazimir Malévich;Mondrian;Piet;Frida Kahlo;1
+¿Quién es considerado uno de los fundadores del arte cinético y es conocido por sus esculturas cinéticas?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Jean Tinguely;5
+¿Cuál de las siguientes obras es una creación de Caravaggio?;La joven de la perla;El nacimiento de Venus;El sacrificio de Isaac;La creación de Adán;Los amantes;3
+¿Qué movimiento artístico se caracteriza por la representación de la vida urbana y la alienación?;Realismo;Impresionismo;Expresionismo;Cubismo;Surrealismo;3
+¿Cuál de los siguientes artistas es conocido por sus "pinturas de números"?;Frida Kahlo;Jackson Pollock;Yoko Ono;Salvador Dalí;Jasper Johns;5
+¿En qué siglo vivió el famoso pintor del Barroco, Rembrandt?;Siglo XVII;Siglo XVI;Siglo XVIII;Siglo XIX;Siglo XIV;1
+¿Cuál de las siguientes pinturas es una creación de Gustav Klimt?;El beso;El grito;Los amantes;La última cena;La joven de la perla;1
+¿Qué famoso escultor francés es conocido por sus esculturas de bailarinas y caballos?;Pablo Picasso;Donatello;Auguste Rodin;Frida Kahlo;Henry Moore;3
+¿Cuál es el río más largo del mundo?;Amazonas;Nilo;Misisipi;Yangtsé;Danubio;1
+¿Cuál es el país más grande del mundo en términos de superficie?;Estados Unidos;China;Canadá;Rusia;Brasil;4
+¿Cuál es el punto más alto de la Tierra?;Monte Everest;Monte McKinley;Monte Kilimanjaro;Monte Fuji;Monte Aconcagua;1
+¿Cuál es el país más pequeño del mundo en términos de superficie?;Mónaco;San Marino;Vaticano;Andorra;Liechtenstein;3
+¿Cuál es el continente más grande en términos de superficie?;África;Asia;América del Norte;Europa;Oceanía;2
+¿Cuál es el océano más grande del mundo?;Océano Atlántico;Océano Índico;Océano Antártico;Océano Pacífico;Océano Ártico;4
+¿Cuál es el país más poblado del mundo?;Estados Unidos;India;China;Brasil;Indonesia;3
+¿Cuál es el lago más profundo del mundo?;Lago Baikal;Lago Tanganica;Lago Superior;Lago de Ginebra;Lago Victoria;1
+¿Cuál es el país que limita con más países en el mundo?;Brasil;Rusia;China;Sudán;Argentina;2
+¿Cuál es el desierto más grande del mundo?;Desierto de Kalahari;Desierto del Sahara;Desierto de Gobi;Desierto de Atacama;Desierto de Sonora;2
+¿Cuál es la cordillera más larga del mundo?;Cordillera de los Andes;Cordillera de los Alpes;Cordillera de los Apalaches;Cordillera de los Himalayas;Cordillera de los Urales;1
+¿Cuál es la capital de Australia?;Sídney;Melbourne;Brisbane;Canberra;Perth;4
+¿Cuál es el país más grande de América del Sur?;Argentina;Brasil;Chile;Colombia;Perú;2
+¿Cuál es el país que se encuentra en la intersección de Europa y Asia?;Rusia;Turquía;Kazajistán;Azerbaiyán;Georgia;1
+¿Cuál es el canal artificial que conecta el Mar Rojo con el Mediterráneo?;Canal de Suez;Canal de Panamá;Canal de la Mancha;Canal de Corinto;Canal de Erie;1
+¿Cuál es el país que se encuentra en la península ibérica?;Francia;Italia;España;Portugal;Grecia;3
+¿Cuál es el océano que separa Europa y África al sur de España?;Océano Atlántico;Océano Índico;Mar de Mármara;Mar Mediterráneo;Mar Negro;4
+¿Cuál es el país que se encuentra en la punta sur de África?;Nigeria;Sudáfrica;Egipto;Marruecos;Kenia;2
+¿Cuál es el estrecho que separa España de Marruecos?;Estrecho de Gibraltar;Estrecho de Bering;Estrecho de Malaca;Estrecho de Magallanes;Estrecho de Ormuz;1
+¿Cuál es el país que se encuentra en el noreste de Asia y es conocido como "El país del sol naciente"?;China;Corea del Norte;Japón;Tailandia;Vietnam;3
+¿Cuál es el río que atraviesa la ciudad de París?;Río Támesis;Río Sena;Río Danubio;Río Rin;Río Volga;2
+¿Cuál es el punto más bajo de la Tierra?;Monte Everest;Depresión de Qattara;Cañón del Colorado;Fosa de las Marianas;Lago Baikal;4
+¿Cuál es la capital de Canadá?;Ottawa;Toronto;Montreal;Vancouver;Calgary;1
+¿Cuál es la isla más grande del mundo?;Borneo;Madagascar;Groenlandia;Sumatra;Hawái;3
+¿Cuál es el país que se encuentra en la península de los Balcanes y cuya capital es Atenas?;Turquía;Grecia;Serbia;Bulgaria;Macedonia del Norte;2
+¿Cuál es el país que se encuentra en la punta de la península itálica?;España;Italia;Grecia;Malta;Cerdeña;2
+¿Cuál es el lago más grande de América del Norte?;Gran Lago de los Esclavos;Lago Superior;Lago de Winnipeg;Lago Ontario;Lago Michigan;2
+¿Cuál es el país que se encuentra en la península escandinava y cuya capital es Estocolmo?;Dinamarca;Noruega;Finlandia;Suecia;Islandia;4
+¿Cuál es el país que limita con Chile al este y al norte?;Uruguay;Paraguay;Argentina;Brasil;Bolivia;4
+¿Cuál es el país que se encuentra en el norte de África y cuya capital es El Cairo?;Argelia;Sudán;Túnez;Marruecos;Egipto;5
+¿Cuál es el país que se encuentra en el centro de Europa y cuya capital es Viena?;Italia;Suiza;Austria;Polonia;Hungría;3
+¿Cuál es el país que se encuentra en la península de los Balcanes y cuya capital es Belgrado?;Eslovenia;Croacia;Montenegro;Bosnia y Herzegovina;Serbia;5
+¿Cuál es el país que limita con Rusia al sur y al este?;Mongolia;China;Kazajistán;Ucrania;Bielorrusia;2
+¿Cuál es el país que se encuentra en la península arábiga y cuya capital es Riad?;Egipto;Irán;Arabia Saudita;Yemen;Jordania;3
+¿Cuál es el río que atraviesa la ciudad de Nueva York?;Río Támesis;Río Misisipi;Río Amazonas;Río Hudson;Río Colorado;4
+¿Cuál es el país que se encuentra en el sur de África y cuya capital es Pretoria?;Zimbabue;Sudáfrica;Namibia;Zambia;Angola;2
+¿Cuál es el estrecho que separa Italia de Sicilia?;Estrecho de Gibraltar;Estrecho de Bering;Estrecho de Malaca;Estrecho de Mesina;Estrecho de Ormuz;4
+¿Cuál es la capital de Colombia?;Bogotá;Medellín;Cali;Cartagena;Barranquilla;1
+¿Cuál es el país que limita con Estados Unidos al sur?;Canadá;México;Guatemala;Belice;Honduras;2
+¿Cuál es el río que forma parte de la frontera entre México y Estados Unidos?;Río Amazonas;Río Mississippi;Río Colorado;Río Bravo (Río Grande);Río Misisipi;4
+¿Cuál es el país que se encuentra en la península de los Balcanes y cuya capital es Zagreb?;Eslovenia;Croacia;Montenegro;Bosnia y Herzegovina;Serbia;2
+¿Cuál es el país que limita con India al norte y al este?;Nepal;Bangladés;Bután;Sri Lanka;Maldivas;2
+¿Cuál es el país que se encuentra en la península de Anatolia y cuya capital es Ankara?;Grecia;Siria;Irán;Turquía;Egipto;4
+¿Cuál es el país que limita con Sudáfrica al norte?;Zimbabue;Botsuana;Mozambique;Namibia;Lesoto;1
+¿Cuál es el país que se encuentra en el norte de Europa y cuya capital es Oslo?;Dinamarca;Noruega;Suecia;Finlandia;Islandia;2
+¿Cuál es el lago más grande de África y el segundo lago de agua dulce más grande del mundo?;Lago Victoria;Lago Tanganica;Lago Turkana;Lago Chad;Lago Nyasa;1
+¿Cuál es el país que limita con Argentina al norte?;Chile;Uruguay;Paraguay;Brasil;Bolivia;4
+¿Cuál es el país que se encuentra en el norte de África y cuya capital es Rabat?;Egipto;Argelia;Túnez;Marruecos;Libia;4
+¿Cuál es el país que limita con China al sur?;Mongolia;Corea del Norte;Vietnam;Laos;Tailandia;1
+¿Cuál es el país que se encuentra en el noroeste de África y cuya capital es Dakar?;Senegal;Mauritania;Gambia;Guinea-Bisáu;Malí;1
+¿Cuál es el país que limita con Sudán al sur?;Libia;Chad;Egipto;Etiopía;Uganda;2
+¿Cuál es el país que se encuentra en el este de Europa y cuya capital es Varsovia?;Hungría;Eslovaquia;República Checa;Polonia;Austria;4
+¿Cuál es el país que limita con Francia al este?;Italia;Suiza;España;Bélgica;Alemania;2
+¿Cuál es el país que se encuentra en el sudeste de Asia y cuya capital es Yakarta?;Tailandia;Malasia;Indonesia;Filipinas;Singapur;3
+¿Cuál es el archipiélago de 7.641 islas que se encuentra en el sureste de Asia?;Islas Marianas;Islas Fiji;Islas Maldivas;Islas Filipinas;Islas Caimán;4
+¿Cuál es el país que limita con Venezuela al sur?;Brasil;Colombia;Guyana;Surinam;Trinidad y Tobago;2
+¿Cuál es el país que se encuentra en el Caribe y cuya capital es Kingston?;Haití;Jamaica;Cuba;República Dominicana;Puerto Rico;2
+¿Cuál es el país que limita con Corea del Norte al sur?;Mongolia;Corea del Sur;Japón;China;Rusia;2
+¿Cuál es el mar que separa Europa de África al sur de España?;Mar de Noruega;Mar de Liguria;Mar Adriático;Mar Mediterráneo;Mar de la Mancha;4
+¿Cuál es el país que se encuentra en el norte de África y cuya capital es Trípoli?;Túnez;Egipto;Argelia;Marruecos;Libia;5
+¿Cuál es el país que limita con Ecuador al sur?;Colombia;Perú;Bolivia;Chile;Argentina;2
+¿Cuál es el país que se encuentra en la península de Yucatán y cuya capital es Ciudad de México?;Guatemala;Belice;Honduras;El Salvador;México;5
+¿Cuál es el río que forma parte de la frontera entre Canadá y Estados Unidos?;Río Colorado;Río San Lorenzo;Río Hudson;Río Columbia;Río Misisipi;2
+¿Cuál es el país que limita con Australia al norte?;Indonesia;Papúa Nueva Guinea;Fiyi;Nueva Zelanda;Islas Salomón;2
+¿Cuál es el país que se encuentra en el este de África y cuya capital es Nairobi?;Uganda;Tanzania;Ruanda;Kenia;Burundi;4
+¿Cuál es el país que limita con Polonia al oeste?;Eslovaquia;República Checa;Austria;Alemania;Ucrania;2
+¿Quién es conocido como el "Rey del Pop"?;Elvis Presley;John Lennon;Michael Jackson;Prince;Bob Marley;3
+¿Cuál de los siguientes géneros musicales se originó en Jamaica en la década de 1960?;Reggae;Country;Jazz;Blues;Salsa;1
+¿Qué banda británica es conocida como "Los Cuatro Fabulosos"?;The Who;The Rolling Stones;The Beatles;The Kinks;The Beach Boys;3
+¿Quién es la cantante conocida como "La Reina del Pop"?;Madonna;Whitney Houston;Celine Dion;Beyoncé;Adele;1
+¿Cuál es el instrumento musical principal en una orquesta sinfónica?;Guitarra;Flauta;Trompeta;Piano;Violín;5
+¿Cuál es el género musical caracterizado por la improvisación y el uso de la escala de blues?;Rock;Jazz;Reggae;Country;Rap;2
+¿Qué instrumento musical toca el famoso músico Jimi Hendrix?;Batería;Bajo;Guitarra eléctrica;Piano;Violín;3
+¿Cuál de los siguientes artistas es conocido por ser el "Rey del Rock and Roll"?;Elvis Presley;Chuck Berry;Jerry Lee Lewis;Buddy Holly;Little Richard;1
+¿Cuál es el género musical que se originó en la década de 1970 en el Bronx, Nueva York, y se asocia con el rap y el breakdance?;Disco;Hip-Hop;Punk;Funk;Reggaetón;2
+¿Cuál es el país de origen del tango, un género musical y de baile?;España;Brasil;Argentina;Cuba;México;3
+¿Qué famosa banda británica es conocida por su álbum "The Dark Side of the Moon"?;The Rolling Stones;Led Zeppelin;The Who;The Beatles;Pink Floyd;5
+¿Cuál es el género musical que se caracteriza por el uso de sintetizadores y ritmos electrónicos?;Rock;Rap;Jazz;Electrónica;R&B;4
+¿Quién es el compositor de la "Novena Sinfonía" y "Cuarteto de Cuerda en Do Mayor"?;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Johann Sebastian Bach;Pyotr Ilyich Tchaikovsky;Antonio Vivaldi;1
+¿Cuál es el género musical que se originó en el Delta del Mississippi y se caracteriza por la guitarra slide y la armónica?;Reggae;Country;Blues;Jazz;Soul;3
+¿Quién es el líder de la banda de rock británica Queen?;Mick Jagger;Freddie Mercury;Bono;Roger Waters;David Bowie;2
+¿Qué género musical se originó en Nueva Orleans y se caracteriza por su estilo de marcha y la influencia africana?;Country;Jazz;Rock;Hip-Hop;Salsa;2
+¿Cuál es el género musical que se originó en la década de 1980 en el sur del Bronx y se caracteriza por su estilo rítmico y líricas habladas?;Reggae;Rock;Pop;Hip-Hop;Funk;4
+¿Quién es conocido como el "Rey del Reggae"?;Bob Marley;Peter Tosh;Jimmy Cliff;Gregory Isaacs;Burning Spear;1
+¿Cuál es el género musical que se caracteriza por su ritmo rápido y letras que narran historias?;Pop;Country;Rap;Blues;R&B;2
+¿Quién es conocido como el "Rey del Soul"?;Ray Charles;Stevie Wonder;Marvin Gaye;Aretha Franklin;James Brown;4
+¿Cuál es el género musical que se caracteriza por su ritmo bailable y letras románticas?;Rock;Salsa;Rap;Blues;Metal;2
+¿Quién es el compositor de la ópera "La flauta mágica"?;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Johann Sebastian Bach;Giuseppe Verdi;Antonio Vivaldi;2
+¿Cuál es el instrumento musical que se toca soplando a través de él y se asocia con el jazz?;Batería;Guitarra;Trompeta;Saxofón;Piano;4
+¿Qué banda de rock se formó en Liverpool en 1960 y es conocida por su álbum "Abbey Road"?;The Rolling Stones;The Who;The Beatles;The Kinks;The Beach Boys;3
+¿Cuál es el género musical que se originó en la década de 1970 en el sur de Nueva York y se caracteriza por su influencia latina y el uso de trompetas?;Reggae;Salsa;Rap;Blues;Country;2
+¿Quién es el autor de la ópera "La Traviata"?;Richard Wagner;Giuseppe Verdi;Giacomo Puccini;Wolfgang Amadeus Mozart;Ludwig van Beethoven;2
+¿Cuál es el instrumento musical que se caracteriza por su sonido percusivo y se toca golpeando sus cuerdas con mazos o baquetas?;Guitarra;Piano;Trompeta;Batería;Violonchelo;4
+¿Qué banda de rock estadounidense se formó en Seattle y es conocida por su álbum "Nevermind"?;Nirvana;Pearl Jam;Soundgarden;Alice in Chains;Stone Temple Pilots;1
+¿Cuál es el género musical que se originó en la década de 1980 en Jamaica y se caracteriza por su influencia electrónica y su ritmo rápido?;Reggae;Salsa;Hip-Hop;Dubstep;House;3
+¿Quién es conocido como el "Rey del Country"?;Johnny Cash;Willie Nelson;Merle Haggard;George Jones;Hank Williams;5
+¿Quién es conocido como el "Rey del Pop Latino"?;Ricky Martin;Marc Anthony;Luis Fonsi;Julio Iglesias;Enrique Iglesias;4
+¿Cuál es el género musical que se caracteriza por su influencia del Caribe, como el reggae y el dancehall?;Rap;Metal;Salsa;Dancehall;Reguetón;5
+¿Quién es la artista conocida como "La Diva de la Banda"?;Selena;Thalía;Paulina Rubio;Gloria Estefan;Jenni Rivera;5
+¿Cuál es el instrumento musical que se toca golpeando con los dedos y es conocido como "el rey de los instrumentos de percusión"?;Xilófono;Tambor;Maracas;Congas;Timbal;2
+¿Qué banda de rock británica es conocida por su álbum "A Night at the Opera"?;The Who;Queen;The Rolling Stones;The Beatles;Pink Floyd;2
+¿Cuál es el género musical que se caracteriza por su ritmo sincopado y su origen en Nueva Orleans?;Salsa;Blues;Jazz;Rock;R&B;3
+¿Quién es el autor de la ópera "Carmen"?;Georges Bizet;Giuseppe Verdi;Giacomo Puccini;Richard Wagner;Ludwig van Beethoven;1
+¿Cuál es el instrumento musical de viento que se toca soplando a través de una caña y se asocia con la música clásica?;Trompeta;Saxofón;Oboe;Clarinete;Flauta travesera;4
+¿Qué banda de rock estadounidense es conocida por su álbum "The Joshua Tree"?;REM;U2;The Police;Coldplay;Pearl Jam;2
+¿Cuál es el género musical que se originó en el sur de los Estados Unidos y se caracteriza por la narración de historias en forma de canciones?;Rock;Country;Blues;Hip-Hop;Reggae;2
+¿Quién es la cantante conocida como "La Dama de Hierro"?;Celine Dion;Dolly Parton;Whitney Houston;Tina Turner;Grace Jones;4
+¿Cuál es el género musical que se caracteriza por su estilo lírico y melódico, y a menudo trata temas de amor y desamor?;Pop;Rock;Rap;Metal;Reggae;1
+¿Quién es conocido como el "Padre del Blues"?;Muddy Waters;B.B. King;Robert Johnson;John Lee Hooker;Howlin' Wolf;3
+¿Cuál es el instrumento musical que se toca frotando un arco contra sus cuerdas y es conocido por su rango expresivo y melódico?;Piano;Violín;Guitarra;Flauta;Saxofón;2
+¿Qué banda británica se formó en 1965 y es conocida por su álbum "The Piper at the Gates of Dawn"?;The Kinks;The Who;The Rolling Stones;The Beatles;Pink Floyd;5
+¿Cuál es el género musical que se originó en Nueva York en la década de 1970 y se caracteriza por la mezcla de diferentes estilos musicales?;Country;Reggae;Punk;Rap;Disco;3
+¿Quién es el autor de la ópera "La Bohème"?;Richard Wagner;Giuseppe Verdi;Giacomo Puccini;Wolfgang Amadeus Mozart;Ludwig van Beethoven;3
+¿Cuál es el instrumento musical de viento que se toca con una boquilla de caña y es conocido por su sonido melódico y expresivo?;Trompeta;Saxofón;Oboe;Clarinete;Flauta travesera;2
+¿Qué banda de rock canadiense se formó en 1985 y es conocida por su álbum "Jagged Little Pill"?;U2;The Cranberries;Rush;Nickelback;Alanis Morissette;5
+¿Cuál es el género musical que se caracteriza por su ritmo rápido y líricas que tratan temas sociales y políticos?;Rap;Country;Metal;Reggae;Salsa;1
+¿Quién es el cantante conocido como el "Rey del Reguetón"?;Daddy Yankee;Don Omar;Wisin;Yandel;Bad Bunny;1
+¿Cuál es el instrumento musical de viento que se toca soplando a través de una boquilla y es conocido por su capacidad de improvisación?;Trompeta;Saxofón;Oboe;Clarinete;Flauta travesera;2
+¿Qué banda de rock estadounidense se formó en 1994 y es conocida por su álbum "Dookie"?;Green Day;Nirvana;Pearl Jam;Soundgarden;Stone Temple Pilots;1
+¿Cuál es el género musical que se caracteriza por su ritmo sincopado y letras líricas sobre la vida urbana?;Salsa;Blues;Jazz;Rap;R&B;4
+¿Quién es conocido como el "Padre del Rock and Roll"?;Elvis Presley;Chuck Berry;Jerry Lee Lewis;Buddy Holly;Little Richard;2
+¿Cuál es el instrumento musical de percusión que se toca golpeando su superficie con las manos o baquetas?;Batería;Guitarra;Tambor;Violín;Xilófono;3
+¿Qué banda de rock británica es conocida por su álbum "The Wall"?;The Rolling Stones;Led Zeppelin;The Who;The Beatles;Pink Floyd;5
+¿Cuál es el género musical que se caracteriza por su ritmo bailable y su influencia latina?;Rock;Rap;Salsa;Reggaetón;Country;3
+¿Quién es el autor de la ópera "La Traviata"?;Richard Wagner;Giuseppe Verdi;Giacomo Puccini;Wolfgang Amadeus Mozart;Ludwig van Beethoven;2
+¿Qué color se forma al mezclar rojo y azul?;Verde;Amarillo;Marrón;Morado;Naranja;4
+Al mezclar rojo y verde, ¿qué color se obtiene?;Azul;Amarillo;Naranja;Morado;Café;3
+¿Cuál es el resultado de combinar amarillo y azul?;Rojo;Verde;Morado;Naranja;Rosa;2
+¿Cuál es el color que se forma al mezclar amarillo y rojo?;Verde;Azul;Naranja;Marrón;Morado;3
+Al combinar azul y verde, ¿qué color se obtiene?;Rojo;Amarillo;Morado;Naranja;Rosa;1
+¿Qué color se forma al mezclar rojo, amarillo y azul en igual cantidad?;Verde;Negro;Blanco;Marrón;Gris;3
+¿Cuál es el resultado de mezclar rojo y blanco?;Rosa;Amarillo;Verde;Morado;Azul;1
+¿Qué color se forma al combinar negro y blanco?;Gris;Marrón;Amarillo;Verde;Naranja;1
+¿Cuál es el color que se obtiene al mezclar azul y morado?;Verde;Amarillo;Rosa;Rojo;Naranja;3
+Al combinar amarillo y morado, ¿qué color se forma?;Naranja;Verde;Azul;Rosa;Marrón;4
+¿Qué color se forma al mezclar rojo y naranja?;Amarillo;Verde;Morado;Rosa;Marrón;4
+¿Cuál es el resultado de combinar blanco y negro?;Amarillo;Gris;Azul;Verde;Rojo;2
+Al mezclar rojo y amarillo, ¿qué color se obtiene?;Azul;Verde;Naranja;Morado;Rosa;3
+¿Qué color se forma al mezclar azul y naranja?;Verde;Amarillo;Morado;Rosa;Marrón;1
+¿Cuál es el color que se obtiene al mezclar amarillo y rosa?;Rojo;Naranja;Verde;Azul;Morado;2
+Al combinar azul y marrón, ¿qué color se forma?;Verde;Amarillo;Morado;Naranja;Negro;4
+¿Qué color se forma al mezclar amarillo y verde?;Azul;Naranja;Morado;Rosa;Gris;2
+¿Cuál es el resultado de combinar azul y rosa?;Rojo;Verde;Morado;Naranja;Gris;3
+¿Qué color se forma al mezclar verde y naranja?;Amarillo;Rosa;Azul;Marrón;Gris;1
+Al mezclar morado y amarillo, ¿qué color se obtiene?;Verde;Azul;Naranja;Marrón;Negro;3
+¿Cuál es el color que se forma al mezclar azul y rojo en partes iguales?;Amarillo;Gris;Morado;Verde;Naranja;4
+¿Qué color se forma al mezclar rojo y naranja en partes iguales?;Rosa;Amarillo;Verde;Azul;Morado;1
+¿Cuál es el resultado de combinar amarillo y marrón en igual cantidad?;Naranja;Verde;Morado;Rosa;Gris;1
+¿Qué color se forma al mezclar azul y verde en partes iguales?;Morado;Naranja;Amarillo;Rosa;Negro;2
+Al combinar rosa y marrón, ¿qué color se forma?;Amarillo;Rosa;Verde;Azul;Morado;5
+¿Qué color se forma al mezclar verde y gris?;Naranja;Amarillo;Morado;Rosa;Marrón;1
+¿Cuál es el resultado de combinar negro y naranja?;Gris;Amarillo;Morado;Rosa;Marrón;1
+¿Qué color se forma al mezclar amarillo y gris?;Rosa;Azul;Morado;Naranja;Gris;4
+Al combinar morado y rosa, ¿qué color se obtiene?;Rojo;Amarillo;Verde;Naranja;Marrón;1
+¿Cuál es el color que se forma al mezclar azul y negro?;Amarillo;Verde;Morado;Rosa;Gris;5
+¿Qué color se forma al mezclar rojo y gris?;Naranja;Amarillo;Morado;Rosa;Marrón;4
+¿Cuál es el resultado de combinar verde y naranja?;Amarillo;Rosa;Azul;Marrón;Gris;5
+¿Qué color se forma al mezclar morado y gris?;Naranja;Amarillo;Verde;Rosa;Marrón;3
+¿Cuál es el color que se obtiene al mezclar rosa y gris?;Rosa;Amarillo;Verde;Azul;Marrón;4
+Al combinar verde y marrón, ¿qué color se forma?;Naranja;Rosa;Morado;Amarillo;Marrón;5
+¿Qué color se forma al mezclar amarillo y naranja en partes iguales?;Rosa;Naranja;Verde;Azul;Marrón;2
+¿Cuál es el resultado de combinar morado y marrón en partes iguales?;Verde;Rosa;Azul;Naranja;Marrón;1
+¿Qué color se forma al mezclar rosa y naranja en igual cantidad?;Amarillo;Rosa;Azul;Naranja;Marrón;4
+¿Cuál es el color que se forma al mezclar verde y azul en partes iguales?;Naranja;Rosa;Morado;Amarillo;Marrón;3
